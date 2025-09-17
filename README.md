@@ -146,7 +146,7 @@ In your README (or GitHub release), reference these images:
 ---
 
 ## License
-MIT License — include license file if you wish (COPYRIGHT and LICENSE).
+MIT License 
 
 ---
 
